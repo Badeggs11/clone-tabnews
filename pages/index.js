@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Sera que entendi como atualizo um projeto no git </h1>
+    return <h1> Pirulito que bate bate no git ele ja bateu </h1>
 }
 
 export default Home;
