@@ -1,5 +1,6 @@
 function Home() {
-    return <h1> Pirulito que bate bate no git ele ja bateu </h1>
+    return <h1> Nao devemos remoer pequenas derrotas quando temos tanto a agradecer
+         </h1>
 }
 
 export default Home;
