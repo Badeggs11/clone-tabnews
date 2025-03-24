@@ -7,4 +7,8 @@ function Home() {
   );
 }
 
+function Teste() {
+  return "teste";
+}
+
 export default Home;
