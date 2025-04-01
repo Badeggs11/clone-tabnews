@@ -1,3 +1,5 @@
+import { createRoot } from "react-dom/client";
+
 function Home() {
   return (
     <h1>
