@@ -3,8 +3,7 @@ import { createRoot } from "react-dom/client";
 function Home() {
   return (
     <h1>
-      {" "}
-      Nao devemos remoer pequenas derrotas quando temos tanto a agradecer
+      {"Nao devemos remoer pequenas derrotas quando temos tanto a agradecer "}
     </h1>
   );
 }
